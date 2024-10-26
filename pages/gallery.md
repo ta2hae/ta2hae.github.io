@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Gallery
-subtitle: From the pexels folder
-permalink: /gallery/
+title: Gözümden
+subtitle: Zamane yolculuklarına, zamansız fotoğraflar.
+permalink: /vizor/
 gallery_path: "assets/img/pexels"
 excluded: true
 position: 3

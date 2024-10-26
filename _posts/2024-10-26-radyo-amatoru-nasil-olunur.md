@@ -1,19 +1,22 @@
 ---
 layout: post
-title: Feature images
-feature-img: "assets/img/feature-img/desk-messy.jpeg"
-thumbnail: "assets/img/thumbnails/feature-img/desk-messy.jpeg"
-tags: [Test, Image]
-categories: Example
+title: Radyo Amatörü Nasıl Olunur?
+feature-img: "assets/img/feature-img/radio-amateur.jpg"
+thumbnail: "assets/img/thumbnails/feature-img/circuit.jpeg"
+author: ta2hae
+tags: [günce, radyo amatörlüğü, hobi]
+categories: Teknik
+excerpt_separator: <!--more-->
 ---
 
 Hopefully you will find enough information about how to set images in your blog here.
 This is an example of a post which includes a feature image specified in the front matter of the post. 
 The feature image spans the full-width of the page, and is shown with the title on permalink pages:
+<!--more-->
 
 ```yaml
-feature-img: "assets/img/feature-img/desk-messy.jpeg"
-thumbnail: "assets/img/thumbnails/feature-img/desk-messy.jpeg" 
+feature-img: "assets/img/feature-img/radio-amateur.jpg"
+thumbnail: "assets/img/thumbnails/feature-img/radio-amateur.jpg" 
 ```
 
 You can also use a thumbnail, a smaller version of the same image to improve loading of the page.

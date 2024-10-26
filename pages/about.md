@@ -1,14 +1,20 @@
 ---
 layout: page
-title: About
+title: Kim?
+author: ta2hae
 permalink: /about/
-feature-img: "assets/img/pexels/travel.jpeg"
-tags: [Page]
+feature-img: "assets/img/header/sroom.webp"
+tags: [Kimim]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Aslında her şeyi içinde barındıran, konuşan ve susan. Sinirlenen, gülümseyen, ve ağlayan. Güldürüp de ağlatanın kuluyum.
 
-Head over to the [theme's documentation](https://github.com/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+Genellikle çok konuşur, az yazarım, gerçi [buraya göre](https://x.com/ta2hae) biraz fazla "konuşuyor gibiyim". Dijital dünyada konuşmak böyle olsa gerek. Yaz, yazılanı tekrar et, yorumla, iz bırak. İz bırakılanlar unutulmaz. 
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+Çocukluktan bu yana telsizlere olan merakım çok uzun yıllar sonra vücuha kavuşarak amatör telsizcilik/radyo amatörlüğü ile buluştu. Şuan için kendi başına ```self hosted``` takılıyor olsam da nispeten çevreme bu konuda yararlı olmaya da gayret ediyorum. Neticede bilgi paylaştıkça çoğalıyor ve eğlendiriyor.
+
+Evet güzel bir hobi hem yazmak hem de yazılanları okumak hem de dinlemek.
+
+Dijital dünyaya bir ayak izi daha bıraktığım şuanlarda hepinizi saygı ve sevgiyle selamlıyorum.
+
+Kalın sağlıcakla.
